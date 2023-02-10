@@ -1,3 +1,17 @@
+/*
+Nome Igor Costa - 2191569
+Nome Fábio Miranda - 2192835
+Nome Bruno Martins - 2191814
+IPLEIRIA - Instituto Politécnico de Leiria
+ESTG - Escola Superior de Tecnologia e Gestão
+LEAU- Licenciatura em Engenharia Automóvel
+SEEV - Sistemas Elétricos e Eletrónicos de Veículos
+
+TP1: Com este projeto pretende-se desenvolver um Sistema de simulação de um veículo num banco de potência com os sensores existentes no mesmo.  
+.
+LINK: https://www.youtube.com/watch?v=yUEa5WiDzhs&t=1s&ab_channel=IgorCosta
+*/
+
 #include <stdio.h>
 #include <math.h>
 #include "Arduino.h"
